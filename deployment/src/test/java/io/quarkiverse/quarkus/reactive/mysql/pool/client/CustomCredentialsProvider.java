@@ -3,7 +3,7 @@ package io.quarkiverse.quarkus.reactive.mysql.pool.client;
 import java.util.HashMap;
 import java.util.Map;
 
-import javax.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.context.ApplicationScoped;
 
 import org.jboss.logging.Logger;
 

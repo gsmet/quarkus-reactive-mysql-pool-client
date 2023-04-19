@@ -3,7 +3,7 @@ package io.quarkiverse.quarkus.reactive.mysql.pool.client.deployment;
 import java.util.List;
 import java.util.Optional;
 
-import javax.enterprise.context.ApplicationScoped;
+import jakarta.enterprise.context.ApplicationScoped;
 
 import io.quarkiverse.quarkus.reactive.mysql.pool.client.runtime.DataSourcesReactiveMySQLConfig;
 import io.quarkiverse.quarkus.reactive.mysql.pool.client.runtime.MySQLPoolRecorder;
